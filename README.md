@@ -3,7 +3,7 @@
 
  
 
-                                                    NPM INIT
+                                                    NPM INSTALL
 
 
 
