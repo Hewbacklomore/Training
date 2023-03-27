@@ -1,0 +1,26 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "info about npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hewbacklomore/Training.git"
+  },
+  "author": "Artur Peiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hewbacklomore/Training/issues"
+  },
+  "homepage": "https://github.com/Hewbacklomore/Training#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.7"
+  }
+}
